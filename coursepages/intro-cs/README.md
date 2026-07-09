@@ -14,7 +14,7 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
 | :-- | :--: |
 | [✅Lecture 1: Introduction](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-1-introduction/) | 2026-06-19|
 | [✅Lecture 2: Strings, Input/Output, Branching](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-2-strings-inputoutput-branching/) | 2026-07-03|
-| [Lecture 3: Iteration](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-3-iteration/) | |
+| [✅Lecture 3: Iteration](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-3-iteration/) | 2027-07-10|
 | [Lecture 4: Loops over Strings, Guess-and-Check, Binary](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-4-loops-over-strings-guess-and-check-binary/) | |
 | [Lecture 5: Floats and Approximation Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-5-floats-and-approximation-methods/) | |
 | [Lecture 6: Bisection Search](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-6-bisection-search/) | |
